@@ -5,12 +5,14 @@ This is a repository that will contain all assignments and course work for the I
 ## Course Contents:
 
 
-Week 1 - Introduction to Capstone Project
+### Week 1 - Introduction to Capstone Project
 
-Week 2 - Exploratory Data Analysis (EDA)
+### Week 2 - Exploratory Data Analysis (EDA)
 
-Week 3 - Interactive Visual Analytics and Dashboard
+### Week 3 - Interactive Visual Analytics and Dashboard
 
-Week 4 - Predictive Analysis(Classification)
+### Week 4 - Predictive Analysis(Classification)
 
-Week 5 - Capstone Project - Data-Driven Insights
+### Week 5 - Capstone Project - Data-Driven Insights
+
+### Presentation
