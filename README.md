@@ -21,8 +21,8 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 ### Interactive Visual Analytics with Folium
 
-### Dashboard Application (Code)
+### Dashboard Application (Python code)
 
 ### Predictive Analysis - Machine Learning Lab
 
-### Presentation
+### Presentation (Powerpoint)
