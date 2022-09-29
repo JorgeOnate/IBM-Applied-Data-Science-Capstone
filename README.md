@@ -9,20 +9,20 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 ## Course Contents:
 
 
-### Data Collection with API
+* Data Collection with API
 
-### Data Collection with Web Scraping
+* Data Collection with Web Scraping
 
-### Data Wrangling
+* Data Wrangling
 
-### EDA with SQL
+* EDA with SQL
 
-### EDA with Visulaization Lab
+* EDA with Visulaization Lab
 
-### Interactive Visual Analytics with Folium
+* Interactive Visual Analytics with Folium
 
-### Dashboard Application (Python code)
+* Dashboard Application (Python code)
 
-### Predictive Analysis - Machine Learning Lab
+* Predictive Analysis - Machine Learning Lab
 
-### Presentation (Powerpoint)
+* Presentation (Powerpoint)
