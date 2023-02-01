@@ -31,3 +31,6 @@ company wants to bid against SpaceX for a rocket launch.
 * Predictive Analysis - Machine Learning Lab
 
 * Presentation (Powerpoint)
+
+
+currently: inactive
